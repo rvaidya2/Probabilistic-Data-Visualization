@@ -24,9 +24,7 @@ This Probabilistic Data Visualization project aims to empower users in making be
 Output
 
 
-![Untitled design](https://github.com/rvaidya2/Probabilistic-Data-Visualization/assets/113307228/85f3b7e5-cccc-472c-8c4f-e332642a6536)
-
-
+![Untitled design](https://github.com/rvaidya2/Probabilistic-Data-Visualization/assets/113307228/82944c1e-77fe-4d3f-a697-7b7c366de505)
 
 
 
